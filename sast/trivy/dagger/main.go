@@ -8,7 +8,7 @@ import (
 
 type Trivy struct{}
 
-// Pull the official Trivy image and send the trivy CLI an image ref to scan
+// Scan the specified OCI image with Trivy 🔍
 func (t *Trivy) ScanImage(
 	ctx context.Context,
 	imageRef string,
