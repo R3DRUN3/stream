@@ -1,5 +1,5 @@
 # stream
-Reference implementation of CI pipeline steps via [*Dagger*](https://dagger.io/) modules.  
+Reference implementation of CI pipeline steps via [*Dagger*](https://dagger.io/) modules 🏗️  
 
 ## Prerequisites
 - [Docker](https://www.docker.com/get-started/)
