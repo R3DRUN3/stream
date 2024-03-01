@@ -1,0 +1,6 @@
+{
+  "name": "build-and-push-oci-image",
+  "sdk": "go",
+  "source": "dagger",
+  "engineVersion": "v0.10.0"
+}
